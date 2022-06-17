@@ -1,0 +1,47 @@
+body{
+margin: 0em 5em 0em 5em;
+}
+
+
+#home{
+	background: #000;
+	color: #614444;
+}
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+#mapa{
+	padding: 0em 0em 0em 20em;
+}
+
+#menu{
+	margin: 5em;
+}
+
+
+.formatacao-img{
+	margin: 2em 0em 2em 20em;
+	width: 50em;
+	height auto;
+}
+
+.nav-carrossel{
+	margin: 0em 15em 0em 15em;
+}
+
+.img-pontos {
+	border-radius: 50em;
+	margin-left: 15em;
+}
+
+.texto-cont{
+	text-align: justify;
+	margin: 2em 0em 5em 15em; 
+}
